@@ -16,3 +16,15 @@ No back end o javascript costuma atuar com o node.Js que é um framework do prop
 ## Uso no desenvolvimento mobile
 
 No desenvolvimento mobile o JavaScript costuma ser utilizado pelo framework React Native.
+
+# AA
+
+# Frameworks
+
+ Mais utilizados no dia a dia
+
+## React
+
+## VueJs
+
+## Angular
