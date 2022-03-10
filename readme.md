@@ -17,14 +17,28 @@ No back end o javascript costuma atuar com o node.Js que é um framework do prop
 
 No desenvolvimento mobile o JavaScript costuma ser utilizado pelo framework React Native.
 
-# AA
+# Estruturas de dados
 
-# Frameworks
+## Comentarios 
 
- Mais utilizados no dia a dia
++ Comentários são linhas de código que interpretador vai ignorar intencionalmente. 
++ Os comentários são uma ótima maneira de deixar anotações.
 
-## React
+## Maneiras de comentar em um codigo Javascript
 
-## VueJs
++ Podemos criar comentário de uma linha (//).
 
-## Angular
++ Podemos criar comentário de várias linhas (/* */).
+
+## Variaveis
+
++ Elas são definidas com a palavra reservada "var".
++ Nos tambem temos o que se chama de variavel momentanea onde nos utilizamos a palavra reservada "let".
+
+<i>Palavras reservadas são palavras que são atribuidas a linguagem de programação sendo assim não se deve usa-las</i>
+
+O javaScript fornece oito tipos de dados diferentes que são undefined, null, boolean, string, symbol, bigint, number e object e todos pode ser um tipo de "var".
+
+## Constantes
+
++
